@@ -4,7 +4,7 @@
 
 I analyzed the district-wide standardized test results. Using the data provided [students_complete.csv](PyCitySchools/Resources/students_complete.csv) and [schools_complete.csv](PyCitySchools/Resources/schools_complete.csv), I was responsible to aggregate the data to and showcase obvious trends in school performance.
 
-Data anlyasis completed using Python, Jupyter and Pandas.
+Data anlyasis completed using * Python, * Jupyter and * Pandas.
 
 My final output report includes each of the following:
 
