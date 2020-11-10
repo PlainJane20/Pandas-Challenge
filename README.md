@@ -6,7 +6,7 @@ I analyzed the district-wide standardized test results. Using the data provided 
 
 Data anlyasis completed using Python, Jupyter and Pandas.
 
-My final output report includes each of the following: [PyCityOutcome](PyCitySchools/PyCitySchools_starterHW.ipynb)
+My final output report includes each of the following: [PyCitySchools_Outcome](PyCitySchools/PyCitySchools_starterHW.ipynb)
 
 ### District Summary
 
