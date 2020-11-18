@@ -52,7 +52,7 @@ My final output report includes each of the following: [PyCitySchools_Outcome](P
 
 * Table that highlights the bottom 5 performing schools based on % Overall Passing. Include all of the same metrics as above.
 
-### Math Scores by Grade\*\*
+### Math Scores by Grade
 
 * Table that lists the average Math Score for students of each grade level (9th, 10th, 11th, 12th) at each school.
 
