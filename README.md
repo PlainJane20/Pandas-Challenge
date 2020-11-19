@@ -77,6 +77,11 @@ My final output report includes each of the following: [PyCitySchools_Outcome](P
 
 * Grouping schools based on school type (Charter vs. District).
 
+### Observations
+* Top performing school was Charter school, named Wilson High with total # of 2283 students with avg math score of 83.99, avg reading score of 90.93.
+* Schools with a size of 2000 or less students have higher average scores and also higher percentage of students passing in both subjects.
+
+
 # Navi Sohi | Data Analytics
 
 
