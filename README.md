@@ -82,7 +82,7 @@ My final output report includes each of the following: [PyCitySchools_Outcome](P
 * Schools with a size of 2000 or less students have higher average scores and also higher percentage of students passing in both subjects.
 
 
-  # Navi Sohi | Data Analytics & Visualization
+# Navi Sohi | Data Analytics & Visualization
 
 
 
