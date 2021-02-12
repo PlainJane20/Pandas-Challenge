@@ -75,7 +75,7 @@ My final output report includes each of the following: [PyCitySchools_Outcome](P
 * With an average item purchase price of $4.56, players who choose not to disclose their gender tend to spend more than Males and Females.
 * Nearly half of all players (44.79%) are between the ages of 20-24. The average purchase price of items by these players is $4.32.
 
-# Navi Sohi | Data Analytics & Visualization
+### [Navi Sohi](https://github.com/PlainJane20)| Data Analytics & Visualization
 
 
 
